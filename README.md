@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  My personal repositories and projects are <b>moved to <a href="https://git.gay/synzr">git.gay</a>.</b>
+  My personal repositories and projects are <b>moved to <a href="https://code.autism.net.ru/synzr">code.autism.net.ru</a>.</b>
 </p>

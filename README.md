@@ -4,4 +4,4 @@
          height="200">
 </p>
 
-<h1 align="center">Михаил «synzr»</h1>
+<h1 align="center">mikhail "synzr"</h1>
